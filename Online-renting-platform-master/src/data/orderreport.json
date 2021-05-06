@@ -1,0 +1,10 @@
+{
+    "todayOrderCount":2000,
+    "weekOrderCount":123,
+    "todayOrderAmount":1000,
+    "weekOrderAmount":10000,
+    "monthlyOrder":123333,
+    "lastmonthOrder":3000,
+    "monthlyAmount":50000,
+    "lastmonthAmount":500000
+}

@@ -1,0 +1,41 @@
+{
+    "report":[
+        {
+            "username":"manish0",
+            "orderNo":1,
+            "orderDate":"20-11-2020",
+            "status":"Delhi",
+            "totalAmount":123,
+            "totalQty":10,
+            "totalProdCount":123
+        },
+        {
+            "username":"manish1",
+            "orderNo":1,
+            "orderDate":"20-11-2020",
+            "status":"Delhi",
+            "totalAmount":123,
+            "totalQty":10,
+            "totalProdCount":123
+        },
+        {
+            "username":"manish2",
+            "orderNo":1,
+            "orderDate":"20-11-2020",
+            "status":"Delhi",
+            "totalAmount":123,
+            "totalQty":10,
+            "totalProdCount":123
+        },
+        {
+            "username":"manish3",
+            "orderNo":1,
+            "orderDate":"20-11-2020",
+            "status":"Delhi",
+            "totalAmount":123,
+            "totalQty":10,
+            "totalProdCount":123
+        }
+
+    ]
+}
